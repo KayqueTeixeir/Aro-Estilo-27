@@ -247,7 +247,7 @@ a {
       right: 0;
       position: absolute;
       content: "";
-      background: #dce5e4;
+      background: #827f7f;
       height: 0%;
       z-index: -1;
       border-radius: 10px;
@@ -401,7 +401,7 @@ a {
       content: "";
       position: absolute;
       border-radius: 20px;
-      background: #dce5e4;
+      background: #FF0000;
       width: 98px;
       height: 98px;
       top: 50%;
